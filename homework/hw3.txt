@@ -1,0 +1,4 @@
+Actually previous file was wrong - there are 22 amino acids that can contribute to protein synthesis in total
+Here are the extra two:
+Selenocysteine
+Pyrrolysine (not used in human protein synthesis)
