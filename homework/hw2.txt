@@ -1,0 +1,23 @@
+It is known that triplet code is a bit excessive - there are 64 possible combinations
+but only 20 aminoacids (known also as "essential amino acids"). 
+There are additional triplets that signalize about the start of polypeptide synthesis (start-codone)
+and about stopping it (stop-codone).
+Here are the list of mentioned aminoacids. 
+Alanine		Cysteine 	Histidine	Methionine	Threonine
+Arginine	Glutamic acid	Isoleucine	Phenylalanine	Tryptophan 
+Asparagine	Glutamine 	Leucine		Proline		Tyrosine 
+Aspartic Acid	Glycine		Lysine		Serine 		Valine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
